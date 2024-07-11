@@ -12,4 +12,4 @@ The landing page showcases a cozy new apartment in Pueblo Libre, Lima, Peru, ava
    cd <repository-directory>
 ### Open the index.html File:
 ##### Open the index.html file in your preferred web browser:
-####### open index.html
+ open index.html
