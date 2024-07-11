@@ -8,8 +8,8 @@ The landing page showcases a cozy new apartment in Pueblo Libre, Lima, Peru, ava
 
 1. **Clone the Repository:**
    ```sh
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/noman1811048/HTML_CSS-Assignment.git
+   cd HTML_CSS-Assignment
 ### Open the index.html File:
 ##### Open the index.html file in your preferred web browser:
  open index.html
